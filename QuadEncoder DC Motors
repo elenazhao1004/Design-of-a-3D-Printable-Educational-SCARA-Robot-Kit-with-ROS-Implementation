@@ -1,0 +1,292 @@
+/***
+ * 
+ * Written By: Andres Eduardo Cuenca
+ * Date: 11/24/2019
+ * Objective: User can select RPM for the DC Motor. DC Motor will start at clockwise direction. 
+ * The DC Motor will begin to accelerate and stay for a constant velocity for given time. 
+ * Then decelerate. Then set to rotate counterclockwise and repeat the functionality. 
+ * The code will continue to run in a state machine.
+ *
+ */
+
+
+
+/**********************************************/
+
+int  InputNum, Speed_value;
+const byte PWMPin = 6;
+const byte DirPin1 = 7;
+const byte DirPin2 = 8;
+
+const byte interruptPinA = 2;
+const byte interruptPinB = 3;
+volatile long EncoderCount = 0; //volatile global varaible to update variable
+
+float theta, RPM;
+float  theta_prev = 0;
+float CountPerRev = 484; //input 12V will have to run at 600 RPM
+
+unsigned long t;
+int dt; //change of time
+unsigned long t_prev = 0; //previous time
+int dt_desired = 20;
+
+
+/****************************************************************************************/
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode(DirPin1, OUTPUT);
+  pinMode(DirPin2, OUTPUT);
+  ClockWiseRotation();
+  pinMode(interruptPinA, INPUT_PULLUP); //gets internnaly conencted to 5V using 50kohm, pins set to high state
+  pinMode(interruptPinB, INPUT_PULLUP);
+  attachInterrupt(digitalPinToInterrupt(interruptPinA), ISR_EncoderA, CHANGE); //ISR_EncoderA: whenever interruptPinA changes its status from low to High
+  attachInterrupt(digitalPinToInterrupt(interruptPinB), ISR_EncoderB, CHANGE);
+
+}
+
+/****************************************************************************************/
+
+void loop() {
+
+  // put your main code here, to run repeatedly:
+  Serial.println("Choose your velocity");
+  Serial.println("Enter '0' for IDLE.");
+  Serial.println("Enter '1' for Slow Speed.");
+  Serial.println("Enter '2' for Slow-Medium Speed.");
+  Serial.println("Enter '3' for Medium Speed.");
+  Serial.println("Enter '4' for Full Speed.");
+  Serial.println("Enter a number: ");
+  delay(3000);
+  InputNum = Serial.parseInt();
+  Serial.print("You entered: ");
+  Serial.println(InputNum);
+
+
+  //State Machine to Pick Speed for DC Motor
+  switch (InputNum) {
+    case 0:
+      IDLE_Mode();
+      break;
+    case 1: //slow speed
+      slowSpd();
+      delay(200);
+      CounterClockWiseRotation();
+      delay(200);
+      slowSpd();
+      break;
+    case 2: //slow-medium speed
+      SlowMedSpd();
+      delay(200);
+      CounterClockWiseRotation();
+      delay(200);
+      SlowMedSpd();
+      break;
+    case 3: //medium speed
+      MedSpd();
+      delay(200);
+      CounterClockWiseRotation();
+      delay(200);
+      MedSpd();
+      break;
+    case 4: //full speed
+      FullSpd();
+      delay(200);
+      CounterClockWiseRotation();
+      delay(200);
+      FullSpd();
+      break;
+    default:
+      break;
+  }
+  ClockWiseRotation();
+}
+
+/****************************************************************************************/
+
+//Full Speed: PWM == 255
+void FullSpd()
+{
+  int PWM = 255;
+  Accelerate(PWM);
+  delay(20);
+  Decelerate(PWM);
+  delay(20);
+}
+/****************************************************************************************/
+//Medium Speed: PWM == 191
+void MedSpd()
+{
+  int PWM = 191;
+  Accelerate(PWM);
+  delay(20);
+  Decelerate(PWM);
+  delay(20);
+}
+/****************************************************************************************/
+//Slow Medium Speed: PWM == 127
+void SlowMedSpd()
+{
+  int PWM = 127;
+  Accelerate(PWM);
+  delay(20);
+  Decelerate(PWM);
+  delay(20);
+}
+/****************************************************************************************/
+// Slow Speed: PWM == 64
+void slowSpd()
+{
+  int PWM = 64;
+  Accelerate(PWM);
+  delay(20);
+  Decelerate(PWM);
+  delay(20);
+}
+/****************************************************************************************/
+//IDLE: PWM == 0
+void IDLE_Mode()
+{
+  //analogWrite(PIN_NUM, 0);
+}
+/****************************************************************************************/
+//Accelerate
+void Accelerate(int PWMvalue)
+{
+
+  for (int i = 0; i <= PWMvalue; i++)
+  {
+    //Serial.print("PWM Value: ");
+    //Serial.println(i);
+    analogWrite(PWMPin, i);
+    delay(10);
+    calculateRPM();
+  }
+ calculateRPM();
+  delay(10000);
+}
+
+/******************************************************************************************/
+//Decelerate
+void Decelerate(int PWMvalue)
+{
+  delay(2000);
+  for (int i = PWMvalue; i >= 0; i--)
+  {
+    //Serial.print("PWM Value: ");
+    //Serial.println(i);
+    analogWrite(PWMPin, i);
+    delay(10);
+    calculateRPM();
+  }
+
+ calculateRPM();
+ 
+}
+
+/****************************************************************************************/
+
+void calculateRPM()
+{
+  
+//Serial.print("Encoder Count: "); 
+//Serial.println(EncoderCount); 
+
+t = millis();
+theta = EncoderCount/CountPerRev; //angle in revolution
+
+dt = (t-t_prev); //compute change of time
+
+RPM = (theta-theta_prev)/(dt/1000.0)*60; //velocity in rev/min 
+t_prev = t; //save current time for next step time
+theta_prev = theta; 
+
+Serial.print("Angle: ");
+Serial.println(theta); 
+Serial.print("RPM: "); 
+Serial.println(RPM); 
+delay(dt_desired-(t-millis()));  
+
+}
+
+/****************************************************************************************/
+
+void ClockWiseRotation()
+{
+  Serial.print("Set as Clockwise!");
+  delay(200);
+  digitalWrite(DirPin1, HIGH);
+  digitalWrite(DirPin2, LOW);
+}
+
+/****************************************************************************************/
+void CounterClockWiseRotation()
+{
+  Serial.print("Set as CounterClockwise!");
+  delay(200);
+  digitalWrite(DirPin1, LOW);
+  digitalWrite(DirPin2, HIGH);
+}
+
+/****************************************************************************************/
+void ISR_EncoderA()
+{
+  bool PinB = digitalRead(interruptPinB);
+  bool PinA = digitalRead(interruptPinA);
+  if (PinB == LOW )
+  {
+    if (PinA == HIGH)
+    {
+      EncoderCount++; //turn clockwise, PINA is HIGH, PINB Low, phase 1
+    }
+    else
+    {
+      EncoderCount--; //turn counterclockwise, PINA LOW, PINB LOW, Phase 4
+    }
+  }
+  else
+  {
+    if (PinA == HIGH)//PINB HIGH, PINA HIGH, phase 2
+    {
+      EncoderCount--; //turn counterclockwise,
+    }
+    else { //PINB HIGH, PINA LOW, phase 3
+      EncoderCount++; //turn clockwise
+    }
+  }
+}
+
+/****************************************************************************************/
+
+void ISR_EncoderB()
+{
+  bool PinA = digitalRead(interruptPinA);
+  bool PinB = digitalRead(interruptPinB);
+
+  if (PinA == LOW)
+  {
+    if (PinB == HIGH)
+    {
+      EncoderCount--;
+    }
+    else
+    {
+      EncoderCount++;
+    }
+  }
+  else //PinA is High
+  {
+    if (PinB == HIGH)
+    {
+      EncoderCount++;
+    }
+    else
+    {
+      EncoderCount--;
+    }
+  }
+} 
+
+/****************************************************************************************/
