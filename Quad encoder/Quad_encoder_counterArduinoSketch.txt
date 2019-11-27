@@ -1,0 +1,109 @@
+/*
+ * Model for Encoder and Arduino 
+ * measure motor count rotation using interrupts 
+ * STEP COUNT: 484 = 360 
+ */
+const byte interruptPinA = 2;
+const byte interruptPinB = 3;
+volatile long EncoderCount = 0; //volatile global varaible to update variable
+
+float theta, RPM;
+float  theta_prev = 0;  
+float CountPerRev = 484; //input 12V will have to run at 600 RPM
+
+unsigned long t; 
+int dt; //change of time
+unsigned long t_prev = 0; //previous time
+int dt_desired = 20;
+
+
+void setup() {
+  // put your setup code here, to run once:
+Serial.begin(9600);
+pinMode(interruptPinA, INPUT_PULLUP); //gets internnaly conencted to 5V using 50kohm, pins set to high state
+pinMode(interruptPinB, INPUT_PULLUP); 
+attachInterrupt(digitalPinToInterrupt(interruptPinA), ISR_EncoderA, CHANGE); //ISR_EncoderA: whenever interruptPinA changes its status from low to High
+attachInterrupt(digitalPinToInterrupt(interruptPinB), ISR_EncoderB, CHANGE);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+Serial.print("Encoder Count: "); 
+Serial.println(EncoderCount); 
+
+t = millis();
+theta = EncoderCount/CountPerRev; //angle in revolution
+
+dt = (t-t_prev); //compute change of time
+
+RPM = (theta-theta_prev)/(dt/1000.0)*60; //velocity in rev/min 
+t_prev = t; //save current time for next step time
+theta_prev = theta; 
+
+
+Serial.print("Angle: ");
+Serial.println(theta); 
+Serial.print("Angular Velocity: "); 
+Serial.println(RPM); 
+delay(dt_desired-(t-millis()));  
+
+} 
+
+void ISR_EncoderA()
+{
+  bool PinB = digitalRead(interruptPinB);
+  bool PinA = digitalRead(interruptPinA); 
+  if (PinB == LOW ) 
+  {
+    if(PinA == HIGH)
+    {
+      EncoderCount++; //turn clockwise, PINA is HIGH, PINB Low, phase 1
+    }
+   else 
+    {
+      EncoderCount--; //turn counterclockwise, PINA LOW, PINB LOW, Phase 4
+    }
+  }
+  else 
+  {
+    if (PinA == HIGH)//PINB HIGH, PINA HIGH, phase 2
+    {
+      EncoderCount--; //turn counterclockwise, 
+    }
+    else{ //PINB HIGH, PINA LOW, phase 3
+      EncoderCount++; //turn clockwise 
+    }
+  }
+  } 
+
+
+void ISR_EncoderB()
+{
+  bool PinA = digitalRead(interruptPinA);
+  bool PinB = digitalRead(interruptPinB); 
+
+if(PinA == LOW)
+{
+  if(PinB == HIGH)
+  {
+  EncoderCount--;
+  }
+  else
+  {
+    EncoderCount++; 
+  }
+}
+else //PinA is High
+{
+  if(PinB == HIGH)
+  {
+    EncoderCount++; 
+  }
+  else
+  {
+    EncoderCount--;
+  }
+}
+ 
+}
+  

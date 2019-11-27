@@ -1,0 +1,89 @@
+const byte interruptPinA = 2;
+const byte interruptPinB = 3;
+volatile long EncoderCount = 0;
+
+
+float Theta, RPM;
+float Theta_prev = 0;
+unsigned long t;
+unsigned long t_prev = 0;
+int dt;
+int dt_desired = 20;
+float CountPerRev = 3286;
+
+void setup()
+{
+  Serial.begin(9600);
+  Serial.println("LABEL, Time, Angel(Rev), Velocity (RPM)");
+  
+  pinMode(interruptPinA, INPUT_PULLUP);
+  pinMode(interruptPinB, INPUT_PULLUP);
+  attachInterrupt(digitalPinToInterrupt(interruptPinA), ISR_EncoderA,CHANGE);
+  attachInterrupt(digitalPinToInterrupt(interruptPinB), ISR_EncoderB,CHANGE); 
+}
+
+void loop()
+{
+    Serial.print("Encoder Count: ");
+    Serial.println(EncoderCount);
+       
+    t = millis();
+    
+    Theta = EncoderCount/CountPerRev; // Angle in revolution
+    dt = (t-t_prev);                 // time step in milliseconds
+    RPM = (Theta-Theta_prev)/(dt/1000.0)*60; // Velocity in rev/minute
+    t_prev = t;
+    Theta_prev = Theta;
+
+//    Serial.print("RPM: ");
+//    Serial.println(RPM);
+//    Serial.print("Theta: ");
+//    Serial.println(Theta);
+    Serial.print("DATA, TIME,");
+    Serial.print(Theta);
+    Serial.print(",");
+    Serial.println(RPM);
+    delay(dt_desired-(t-millis()));    
+}
+
+void ISR_EncoderA(){
+  bool PinB = digitalRead(interruptPinB);
+  bool PinA = digitalRead(interruptPinA);
+  if (PinB == LOW) {
+    if (PinA == HIGH) {
+      EncoderCount++;
+    }
+    else {
+      EncoderCount--;
+    }
+  }
+  else {
+    if (PinA == HIGH) {
+      EncoderCount--;
+    }
+    else {
+      EncoderCount++;
+    }
+  }
+}
+  
+void ISR_EncoderB(){
+  bool PinA = digitalRead(interruptPinA);
+  bool PinB = digitalRead(interruptPinB);
+  if (PinA == LOW) {
+    if (PinB == HIGH) {
+      EncoderCount--;
+    }
+    else {
+      EncoderCount++;
+    }
+  }
+  else {
+    if (PinB == HIGH) {
+      EncoderCount++;
+    }
+    else {
+      EncoderCount--;
+    }
+  }
+}     

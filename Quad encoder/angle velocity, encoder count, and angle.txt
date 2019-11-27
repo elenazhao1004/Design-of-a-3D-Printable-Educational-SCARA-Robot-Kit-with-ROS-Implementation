@@ -1,0 +1,2222 @@
+Encoder Count: -1
+Angle: -0.00
+Angular Velocity: inf
+Encoder Count: -102
+Angle: -0.21
+Angular Velocity: -626.03
+Encoder Count: -531
+Angle: -1.10
+Angular Velocity: -602.93
+Encoder Count: -727
+Angle: -1.50
+Angular Velocity: -595.65
+Encoder Count: -1156
+Angle: -2.39
+Angular Velocity: -604.34
+Encoder Count: -1362
+Angle: -2.82
+Angular Velocity: -593.89
+Encoder Count: -1791
+Angle: -3.70
+Angular Velocity: -604.34
+Encoder Count: -1996
+Angle: -4.13
+Angular Velocity: -593.89
+Encoder Count: -2425
+Angle: -5.01
+Angular Velocity: -604.34
+Encoder Count: -2632
+Angle: -5.44
+Angular Velocity: -593.89
+Encoder Count: -3061
+Angle: -6.33
+Angular Velocity: -604.34
+Encoder Count: -3272
+Angle: -6.76
+Angular Velocity: -594.48
+Encoder Count: -3692
+Angle: -7.63
+Angular Velocity: -605.42
+Encoder Count: -3912
+Angle: -8.08
+Angular Velocity: -592.89
+Encoder Count: -4322
+Angle: -8.93
+Angular Velocity: -605.08
+Encoder Count: -4552
+Angle: -9.41
+Angular Velocity: -581.89
+Encoder Count: -4948
+Angle: -10.23
+Angular Velocity: -613.64
+Encoder Count: -5207
+Angle: -10.76
+Angular Velocity: -583.77
+Encoder Count: -5583
+Angle: -11.54
+Angular Velocity: -613.31
+Encoder Count: -5862
+Angle: -12.11
+Angular Velocity: -586.22
+Encoder Count: -6219
+Angle: -12.85
+Angular Velocity: -606.25
+Encoder Count: -6513
+Angle: -13.46
+Angular Velocity: -597.48
+Encoder Count: -6864
+Angle: -14.18
+Angular Velocity: -604.34
+Encoder Count: -7158
+Angle: -14.79
+Angular Velocity: -597.48
+Encoder Count: -7510
+Angle: -15.52
+Angular Velocity: -607.78
+Encoder Count: -7804
+Angle: -16.13
+Angular Velocity: -595.45
+Encoder Count: -8156
+Angle: -16.85
+Angular Velocity: -606.06
+Encoder Count: -8449
+Angle: -17.46
+Angular Velocity: -597.48
+Encoder Count: -8801
+Angle: -18.19
+Angular Velocity: -606.06
+Encoder Count: -9100
+Angle: -18.80
+Angular Velocity: -595.84
+Encoder Count: -9443
+Angle: -19.51
+Angular Velocity: -607.44
+Encoder Count: -9751
+Angle: -20.15
+Angular Velocity: -596.59
+Encoder Count: -10083
+Angle: -20.83
+Angular Velocity: -605.25
+Encoder Count: -10411
+Angle: -21.51
+Angular Velocity: -597.96
+Encoder Count: -10734
+Angle: -22.18
+Angular Velocity: -599.48
+Encoder Count: -11067
+Angle: -22.87
+Angular Velocity: -596.48
+Encoder Count: -11390
+Angle: -23.54
+Angular Velocity: -599.48
+Encoder Count: -11718
+Angle: -24.21
+Angular Velocity: -606.88
+Encoder Count: -12051
+Angle: -24.90
+Angular Velocity: -596.48
+Encoder Count: -12369
+Angle: -25.56
+Angular Velocity: -608.39
+Encoder Count: -12712
+Angle: -26.27
+Angular Velocity: -598.88
+Encoder Count: -13021
+Angle: -26.91
+Angular Velocity: -608.03
+Encoder Count: -13374
+Angle: -27.63
+Angular Velocity: -597.76
+Encoder Count: -13677
+Angle: -28.26
+Angular Velocity: -598.19
+Encoder Count: -14024
+Angle: -28.98
+Angular Velocity: -605.87
+Encoder Count: -14338
+Angle: -29.63
+Angular Velocity: -598.86
+Encoder Count: -14676
+Angle: -30.32
+Angular Velocity: -605.46
+Encoder Count: -14999
+Angle: -30.99
+Angular Velocity: -597.63
+Encoder Count: -15332
+Angle: -31.68
+Angular Velocity: -598.28
+Encoder Count: -15651
+Angle: -32.34
+Angular Velocity: -608.39
+Encoder Count: -15993
+Angle: -33.05
+Angular Velocity: -598.88
+Encoder Count: -16302
+Angle: -33.69
+Angular Velocity: -608.03
+Encoder Count: -16655
+Angle: -34.41
+Angular Velocity: -597.76
+Encoder Count: -16954
+Angle: -35.03
+Angular Velocity: -607.64
+Encoder Count: -17316
+Angle: -35.78
+Angular Velocity: -600.00
+Encoder Count: -17610
+Angle: -36.39
+Angular Velocity: -597.48
+Encoder Count: -17972
+Angle: -37.14
+Angular Velocity: -606.43
+Encoder Count: -18272
+Angle: -37.75
+Angular Velocity: -597.84
+Encoder Count: -18624
+Angle: -38.48
+Angular Velocity: -607.78
+Encoder Count: -18933
+Angle: -39.12
+Angular Velocity: -596.59
+Encoder Count: -19280
+Angle: -39.84
+Angular Velocity: -599.17
+Encoder Count: -19584
+Angle: -40.47
+Angular Velocity: -607.84
+Encoder Count: -19942
+Angle: -41.21
+Angular Velocity: -599.73
+Encoder Count: -20236
+Angle: -41.81
+Angular Velocity: -607.44
+Encoder Count: -20604
+Angle: -42.57
+Angular Velocity: -598.63
+Encoder Count: -20888
+Angle: -43.16
+Angular Velocity: -607.01
+Encoder Count: -21265
+Angle: -43.94
+Angular Velocity: -599.17
+Encoder Count: -21545
+Angle: -44.52
+Angular Velocity: -598.46
+Encoder Count: -21917
+Angle: -45.29
+Angular Velocity: -606.79
+Encoder Count: -22206
+Angle: -45.88
+Angular Velocity: -599.17
+Encoder Count: -22568
+Angle: -46.63
+Angular Velocity: -598.35
+Encoder Count: -22863
+Angle: -47.24
+Angular Velocity: -607.44
+Encoder Count: -23230
+Angle: -48.00
+Angular Velocity: -598.63
+Encoder Count: -23515
+Angle: -48.59
+Angular Velocity: -609.15
+Encoder Count: -23891
+Angle: -49.36
+Angular Velocity: -597.58
+Encoder Count: -24166
+Angle: -49.93
+Angular Velocity: -608.77
+Encoder Count: -24553
+Angle: -50.73
+Angular Velocity: -599.69
+Encoder Count: -24818
+Angle: -51.28
+Angular Velocity: -608.36
+Encoder Count: -25214
+Angle: -52.10
+Angular Velocity: -598.67
+Encoder Count: -25474
+Angle: -52.64
+Angular Velocity: -599.17
+Encoder Count: -25866
+Angle: -53.44
+Angular Velocity: -605.89
+Encoder Count: -26136
+Angle: -54.00
+Angular Velocity: -595.49
+Encoder Count: -26517
+Angle: -54.79
+Angular Velocity: -601.00
+Encoder Count: -26792
+Angle: -55.36
+Angular Velocity: -608.77
+Encoder Count: -27179
+Angle: -56.16
+Angular Velocity: -598.14
+Encoder Count: -27444
+Angle: -56.70
+Angular Velocity: -608.36
+Encoder Count: -27841
+Angle: -57.52
+Angular Velocity: -600.18
+Encoder Count: -28096
+Angle: -58.05
+Angular Velocity: -596.44
+Encoder Count: -28497
+Angle: -58.88
+Angular Velocity: -606.23
+Encoder Count: -28758
+Angle: -59.42
+Angular Velocity: -599.17
+Encoder Count: -29149
+Angle: -60.23
+Angular Velocity: -607.44
+Encoder Count: -29419
+Angle: -60.79
+Angular Velocity: -585.04
+Encoder Count: -29796
+Angle: -61.56
+Angular Velocity: -614.94
+Encoder Count: -30085
+Angle: -62.16
+Angular Velocity: -589.35
+Encoder Count: -30442
+Angle: -62.90
+Angular Velocity: -606.25
+Encoder Count: -30746
+Angle: -63.53
+Angular Velocity: -598.19
+Encoder Count: -31098
+Angle: -64.26
+Angular Velocity: -606.06
+Encoder Count: -31402
+Angle: -64.88
+Angular Velocity: -598.20
+Encoder Count: -31754
+Angle: -65.61
+Angular Velocity: -606.06
+Encoder Count: -32058
+Angle: -66.24
+Angular Velocity: -598.19
+Encoder Count: -32410
+Angle: -66.96
+Angular Velocity: -596.06
+Encoder Count: -32714
+Angle: -67.59
+Angular Velocity: -607.84
+Encoder Count: -33065
+Angle: -68.32
+Angular Velocity: -597.76
+Encoder Count: -33369
+Angle: -68.95
+Angular Velocity: -598.19
+Encoder Count: -33716
+Angle: -69.67
+Angular Velocity: -605.87
+Encoder Count: -34030
+Angle: -70.31
+Angular Velocity: -596.95
+Encoder Count: -34367
+Angle: -71.01
+Angular Velocity: -605.46
+Encoder Count: -34690
+Angle: -71.68
+Angular Velocity: -597.63
+Encoder Count: -35023
+Angle: -72.36
+Angular Velocity: -598.28
+Encoder Count: -35340
+Angle: -73.02
+Angular Velocity: -606.48
+Encoder Count: -35683
+Angle: -73.73
+Angular Velocity: -597.14
+Encoder Count: -35992
+Angle: -74.37
+Angular Velocity: -608.03
+Encoder Count: -36344
+Angle: -75.09
+Angular Velocity: -597.76
+Encoder Count: -36648
+Angle: -75.72
+Angular Velocity: -598.20
+Encoder Count: -36996
+Angle: -76.44
+Angular Velocity: -607.61
+Encoder Count: -37309
+Angle: -77.09
+Angular Velocity: -596.95
+Encoder Count: -37647
+Angle: -77.79
+Angular Velocity: -607.26
+Encoder Count: -37970
+Angle: -78.45
+Angular Velocity: -599.48
+Encoder Count: -38298
+Angle: -79.13
+Angular Velocity: -606.89
+Encoder Count: -38632
+Angle: -79.82
+Angular Velocity: -598.28
+Encoder Count: -38960
+Angle: -80.50
+Angular Velocity: -597.95
+Encoder Count: -39283
+Angle: -81.17
+Angular Velocity: -608.57
+Encoder Count: -39621
+Angle: -81.87
+Angular Velocity: -598.58
+Encoder Count: -39935
+Angle: -82.51
+Angular Velocity: -608.22
+Encoder Count: -40283
+Angle: -83.23
+Angular Velocity: -597.45
+Encoder Count: -40592
+Angle: -83.87
+Angular Velocity: -598.53
+Encoder Count: -40936
+Angle: -84.58
+Angular Velocity: -609.21
+Encoder Count: -41254
+Angle: -85.24
+Angular Velocity: -599.17
+Encoder Count: -41587
+Angle: -85.93
+Angular Velocity: -605.25
+Encoder Count: -41916
+Angle: -86.61
+Angular Velocity: -599.78
+Encoder Count: -42240
+Angle: -87.27
+Angular Velocity: -608.57
+Encoder Count: -42578
+Angle: -87.97
+Angular Velocity: -598.58
+Encoder Count: -42897
+Angle: -88.63
+Angular Velocity: -599.18
+Encoder Count: -43231
+Angle: -89.32
+Angular Velocity: -608.89
+Encoder Count: -43559
+Angle: -90.00
+Angular Velocity: -597.96
+Encoder Count: -43883
+Angle: -90.67
+Angular Velocity: -608.56
+Encoder Count: -44221
+Angle: -91.37
+Angular Velocity: -600.36
+Encoder Count: -44540
+Angle: -92.03
+Angular Velocity: -597.30
+Encoder Count: -44873
+Angle: -92.72
+Angular Velocity: -608.89
+Encoder Count: -45202
+Angle: -93.40
+Angular Velocity: -599.78
+Encoder Count: -45526
+Angle: -94.06
+Angular Velocity: -606.68
+Encoder Count: -45864
+Angle: -94.76
+Angular Velocity: -600.36
+Encoder Count: -46179
+Angle: -95.41
+Angular Velocity: -608.21
+Encoder Count: -46527
+Angle: -96.13
+Angular Velocity: -599.17
+Encoder Count: -46836
+Angle: -96.77
+Angular Velocity: -598.53
+Encoder Count: -47180
+Angle: -97.48
+Angular Velocity: -609.21
+Encoder Count: -47498
+Angle: -98.14
+Angular Velocity: -599.17
+Encoder Count: -47832
+Angle: -98.83
+Angular Velocity: -607.08
+Encoder Count: -48161
+Angle: -99.51
+Angular Velocity: -601.60
+Encoder Count: -48490
+Angle: -100.19
+Angular Velocity: -597.96
+Encoder Count: -48824
+Angle: -100.88
+Angular Velocity: -608.89
+Encoder Count: -49163
+Angle: -101.58
+Angular Velocity: -600.36
+Encoder Count: -49487
+Angle: -102.25
+Angular Velocity: -608.56
+Encoder Count: -49836
+Angle: -102.97
+Angular Velocity: -600.90
+Encoder Count: -50155
+Angle: -103.63
+Angular Velocity: -590.23
+Encoder Count: -50494
+Angle: -104.33
+Angular Velocity: -609.06
+Encoder Count: -50828
+Angle: -105.02
+Angular Velocity: -600.07
+Encoder Count: -51157
+Angle: -105.70
+Angular Velocity: -610.59
+Encoder Count: -51501
+Angle: -106.41
+Angular Velocity: -598.88
+Encoder Count: -51825
+Angle: -107.08
+Angular Velocity: -601.34
+Encoder Count: -52164
+Angle: -107.78
+Angular Velocity: -607.25
+Encoder Count: -52498
+Angle: -108.47
+Angular Velocity: -601.87
+Encoder Count: -52827
+Angle: -109.15
+Angular Velocity: -599.78
+Encoder Count: -53166
+Angle: -109.85
+Angular Velocity: -609.06
+Encoder Count: -53500
+Angle: -110.54
+Angular Velocity: -598.27
+Encoder Count: -53830
+Angle: -111.22
+Angular Velocity: -610.59
+Encoder Count: -54173
+Angle: -111.93
+Angular Velocity: -600.62
+Encoder Count: -54502
+Angle: -112.61
+Angular Velocity: -599.78
+Encoder Count: -54836
+Angle: -113.30
+Angular Velocity: -608.89
+Encoder Count: -55175
+Angle: -114.00
+Angular Velocity: -600.36
+Encoder Count: -55500
+Angle: -114.67
+Angular Velocity: -608.56
+Encoder Count: -55849
+Angle: -115.39
+Angular Velocity: -600.90
+Encoder Count: -56168
+Angle: -116.05
+Angular Velocity: -599.17
+Encoder Count: -56512
+Angle: -116.76
+Angular Velocity: -609.21
+Encoder Count: -56842
+Angle: -117.44
+Angular Velocity: -601.60
+Encoder Count: -57176
+Angle: -118.13
+Angular Velocity: -608.90
+Encoder Count: -57515
+Angle: -118.83
+Angular Velocity: -600.35
+Encoder Count: -57844
+Angle: -119.52
+Angular Velocity: -601.60
+Encoder Count: -58179
+Angle: -120.21
+Angular Velocity: -608.90
+Encoder Count: -58517
+Angle: -120.91
+Angular Velocity: -600.36
+Encoder Count: -58842
+Angle: -121.58
+Angular Velocity: -608.56
+Encoder Count: -59191
+Angle: -122.30
+Angular Velocity: -600.90
+Encoder Count: -59510
+Angle: -122.96
+Angular Velocity: -601.05
+Encoder Count: -59854
+Angle: -123.67
+Angular Velocity: -609.21
+Encoder Count: -60184
+Angle: -124.35
+Angular Velocity: -599.78
+Encoder Count: -60518
+Angle: -125.04
+Angular Velocity: -601.87
+Encoder Count: -60852
+Angle: -125.73
+Angular Velocity: -608.90
+Encoder Count: -61192
+Angle: -126.43
+Angular Velocity: -600.35
+Encoder Count: -61516
+Angle: -127.10
+Angular Velocity: -599.49
+Encoder Count: -61860
+Angle: -127.81
+Angular Velocity: -600.62
+Encoder Count: -62184
+Angle: -128.48
+Angular Velocity: -601.34
+Encoder Count: -62524
+Angle: -129.18
+Angular Velocity: -609.05
+Encoder Count: -62858
+Angle: -129.88
+Angular Velocity: -601.87
+Encoder Count: -63188
+Angle: -130.56
+Angular Velocity: -608.73
+Encoder Count: -63532
+Angle: -131.27
+Angular Velocity: -600.62
+Encoder Count: -63856
+Angle: -131.94
+Angular Velocity: -601.34
+Encoder Count: -64196
+Angle: -132.64
+Angular Velocity: -609.05
+Encoder Count: -64530
+Angle: -133.33
+Angular Velocity: -600.07
+Encoder Count: -64860
+Angle: -134.01
+Angular Velocity: -610.59
+Encoder Count: -65208
+Angle: -134.73
+Angular Velocity: -600.89
+Encoder Count: -65528
+Angle: -135.39
+Angular Velocity: -601.06
+Encoder Count: -65872
+Angle: -136.10
+Angular Velocity: -609.21
+Encoder Count: -66202
+Angle: -136.78
+Angular Velocity: -599.78
+Encoder Count: -66536
+Angle: -137.47
+Angular Velocity: -608.91
+Encoder Count: -66876
+Angle: -138.18
+Angular Velocity: -602.12
+Encoder Count: -67205
+Angle: -138.86
+Angular Velocity: -599.79
+Encoder Count: -67540
+Angle: -139.55
+Angular Velocity: -608.89
+Encoder Count: -67879
+Angle: -140.25
+Angular Velocity: -602.13
+Encoder Count: -68204
+Angle: -140.92
+Angular Velocity: -608.56
+Encoder Count: -68552
+Angle: -141.64
+Angular Velocity: -602.62
+Encoder Count: -68872
+Angle: -142.30
+Angular Velocity: -601.04
+Encoder Count: -69217
+Angle: -143.01
+Angular Velocity: -609.21
+Encoder Count: -69546
+Angle: -143.69
+Angular Velocity: -601.61
+Encoder Count: -69886
+Angle: -144.39
+Angular Velocity: -600.35
+Encoder Count: -70210
+Angle: -145.07
+Angular Velocity: -610.45
+Encoder Count: -70559
+Angle: -145.79
+Angular Velocity: -600.89
+Encoder Count: -70874
+Angle: -146.44
+Angular Velocity: -610.16
+Encoder Count: -71233
+Angle: -147.18
+Angular Velocity: -601.40
+Encoder Count: -71544
+Angle: -147.82
+Angular Velocity: -589.32
+Encoder Count: -71893
+Angle: -148.54
+Angular Velocity: -619.84
+Encoder Count: -72223
+Angle: -149.22
+Angular Velocity: -592.89
+Encoder Count: -72552
+Angle: -149.90
+Angular Velocity: -610.57
+Encoder Count: -72896
+Angle: -150.62
+Angular Velocity: -600.64
+Encoder Count: -73222
+Angle: -151.29
+Angular Velocity: -601.32
+Encoder Count: -73561
+Angle: -151.99
+Angular Velocity: -610.86
+Encoder Count: -73896
+Angle: -152.68
+Angular Velocity: -600.07
+Encoder Count: -74226
+Angle: -153.36
+Angular Velocity: -610.59
+Encoder Count: -74570
+Angle: -154.07
+Angular Velocity: -602.38
+Encoder Count: -74895
+Angle: -154.74
+Angular Velocity: -599.48
+Encoder Count: -75235
+Angle: -155.45
+Angular Velocity: -610.84
+Encoder Count: -75569
+Angle: -156.14
+Angular Velocity: -601.87
+Encoder Count: -75904
+Angle: -156.83
+Angular Velocity: -600.07
+Encoder Count: -76239
+Angle: -157.52
+Angular Velocity: -610.72
+Encoder Count: -76578
+Angle: -158.22
+Angular Velocity: -602.13
+Encoder Count: -76903
+Angle: -158.89
+Angular Velocity: -608.56
+Encoder Count: -77252
+Angle: -159.61
+Angular Velocity: -600.89
+Encoder Count: -77572
+Angle: -160.27
+Angular Velocity: -601.06
+Encoder Count: -77917
+Angle: -160.99
+Angular Velocity: -610.98
+Encoder Count: -78247
+Angle: -161.67
+Angular Velocity: -601.60
+Encoder Count: -78582
+Angle: -162.36
+Angular Velocity: -610.72
+Encoder Count: -78921
+Angle: -163.06
+Angular Velocity: -602.13
+Encoder Count: -79251
+Angle: -163.75
+Angular Velocity: -601.60
+Encoder Count: -79586
+Angle: -164.44
+Angular Velocity: -608.89
+Encoder Count: -79926
+Angle: -165.14
+Angular Velocity: -602.13
+Encoder Count: -80251
+Angle: -165.81
+Angular Velocity: -610.45
+Encoder Count: -80600
+Angle: -166.53
+Angular Velocity: -602.61
+Encoder Count: -80921
+Angle: -167.19
+Angular Velocity: -601.06
+Encoder Count: -81265
+Angle: -167.91
+Angular Velocity: -610.98
+Encoder Count: -81596
+Angle: -168.59
+Angular Velocity: -601.60
+Encoder Count: -81931
+Angle: -169.28
+Angular Velocity: -610.72
+Encoder Count: -82271
+Angle: -169.98
+Angular Velocity: -602.13
+Encoder Count: -82600
+Angle: -170.67
+Angular Velocity: -592.88
+Encoder Count: -82931
+Angle: -171.35
+Angular Velocity: -610.59
+Encoder Count: -83276
+Angle: -172.06
+Angular Velocity: -602.38
+Encoder Count: -83596
+Angle: -172.72
+Angular Velocity: -610.29
+Encoder Count: -83950
+Angle: -173.45
+Angular Velocity: -602.86
+Encoder Count: -84266
+Angle: -174.11
+Angular Velocity: -600.77
+Encoder Count: -84616
+Angle: -174.83
+Angular Velocity: -611.10
+Encoder Count: -84940
+Angle: -175.50
+Angular Velocity: -601.34
+Encoder Count: -85286
+Angle: -176.21
+Angular Velocity: -602.38
+Encoder Count: -85606
+Angle: -176.87
+Angular Velocity: -610.29
+Encoder Count: -85960
+Angle: -177.61
+Angular Velocity: -602.86
+Encoder Count: -86271
+Angle: -178.25
+Angular Velocity: -610.00
+Encoder Count: -86640
+Angle: -179.01
+Angular Velocity: -603.51
+Encoder Count: -86941
+Angle: -179.63
+Angular Velocity: -601.84
+Encoder Count: -87306
+Angle: -180.39
+Angular Velocity: -609.79
+Encoder Count: -87616
+Angle: -181.03
+Angular Velocity: -602.40
+Encoder Count: -87971
+Angle: -181.76
+Angular Velocity: -609.50
+Encoder Count: -88291
+Angle: -182.42
+Angular Velocity: -602.93
+Encoder Count: -88641
+Angle: -183.14
+Angular Velocity: -600.89
+Encoder Count: -88956
+Angle: -183.80
+Angular Velocity: -612.09
+Encoder Count: -89316
+Angle: -184.54
+Angular Velocity: -601.41
+Encoder Count: -89622
+Angle: -185.17
+Angular Velocity: -611.84
+Encoder Count: -89991
+Angle: -185.93
+Angular Velocity: -601.89
+Encoder Count: -90292
+Angle: -186.56
+Angular Velocity: -601.84
+Encoder Count: -90656
+Angle: -187.31
+Angular Velocity: -611.46
+Encoder Count: -90967
+Angle: -187.95
+Angular Velocity: -600.46
+Encoder Count: -91322
+Angle: -188.68
+Angular Velocity: -602.86
+Encoder Count: -91638
+Angle: -189.34
+Angular Velocity: -612.09
+Encoder Count: -91997
+Angle: -190.08
+Angular Velocity: -603.09
+Encoder Count: -92303
+Angle: -190.71
+Angular Velocity: -609.83
+Encoder Count: -92672
+Angle: -191.47
+Angular Velocity: -601.90
+Encoder Count: -92973
+Angle: -192.10
+Angular Velocity: -594.25
+Encoder Count: -93333
+Angle: -192.84
+Angular Velocity: -618.11
+Encoder Count: -93653
+Angle: -193.50
+Angular Velocity: -593.93
+Encoder Count: -93993
+Angle: -194.20
+Angular Velocity: -610.86
+Encoder Count: -94329
+Angle: -194.90
+Angular Velocity: -601.87
+Encoder Count: -94664
+Angle: -195.59
+Angular Velocity: -601.86
+Encoder Count: -94994
+Angle: -196.27
+Angular Velocity: -612.43
+Encoder Count: -95339
+Angle: -196.98
+Angular Velocity: -600.64
+Encoder Count: -95659
+Angle: -197.64
+Angular Velocity: -610.29
+Encoder Count: -96014
+Angle: -198.38
+Angular Velocity: -602.86
+Encoder Count: -96329
+Angle: -199.03
+Angular Velocity: -602.67
+Encoder Count: -96679
+Angle: -199.75
+Angular Velocity: -609.35
+Encoder Count: -97004
+Angle: -200.43
+Angular Velocity: -603.18
+Encoder Count: -97350
+Angle: -201.14
+Angular Velocity: -602.38
+Encoder Count: -97675
+Angle: -201.81
+Angular Velocity: -610.45
+Encoder Count: -98025
+Angle: -202.53
+Angular Velocity: -602.61
+Encoder Count: -98340
+Angle: -203.19
+Angular Velocity: -612.09
+Encoder Count: -98700
+Angle: -203.93
+Angular Velocity: -603.09
+Encoder Count: -99006
+Angle: -204.56
+Angular Velocity: -609.84
+Encoder Count: -99375
+Angle: -205.32
+Angular Velocity: -603.53
+Encoder Count: -99676
+Angle: -205.94
+Angular Velocity: -599.83
+Encoder Count: -100040
+Angle: -206.70
+Angular Velocity: -611.46
+Encoder Count: -100361
+Angle: -207.36
+Angular Velocity: -602.93
+Encoder Count: -100721
+Angle: -208.11
+Angular Velocity: -603.09
+Encoder Count: -101037
+Angle: -208.76
+Angular Velocity: -612.09
+Encoder Count: -101407
+Angle: -209.52
+Angular Velocity: -601.89
+Encoder Count: -101713
+Angle: -210.15
+Angular Velocity: -613.83
+Encoder Count: -102093
+Angle: -210.94
+Angular Velocity: -602.36
+Encoder Count: -102394
+Angle: -211.56
+Angular Velocity: -594.25
+Encoder Count: -102764
+Angle: -212.32
+Angular Velocity: -618.17
+Encoder Count: -103085
+Angle: -212.99
+Angular Velocity: -593.93
+Encoder Count: -103440
+Angle: -213.72
+Angular Velocity: -602.84
+Encoder Count: -103761
+Angle: -214.38
+Angular Velocity: -612.21
+Encoder Count: -104126
+Angle: -215.14
+Angular Velocity: -603.31
+Encoder Count: -104442
+Angle: -215.79
+Angular Velocity: -602.67
+Encoder Count: -104802
+Angle: -216.54
+Angular Velocity: -613.04
+Encoder Count: -105128
+Angle: -217.21
+Angular Velocity: -603.18
+Encoder Count: -105483
+Angle: -217.94
+Angular Velocity: -602.86
+Encoder Count: -105809
+Angle: -218.62
+Angular Velocity: -612.32
+Encoder Count: -106169
+Angle: -219.36
+Angular Velocity: -603.09
+Encoder Count: -106485
+Angle: -220.01
+Angular Velocity: -612.09
+Encoder Count: -106855
+Angle: -220.78
+Angular Velocity: -603.53
+Encoder Count: -107166
+Angle: -221.42
+Angular Velocity: -602.40
+Encoder Count: -107531
+Angle: -222.18
+Angular Velocity: -611.45
+Encoder Count: -107852
+Angle: -222.84
+Angular Velocity: -602.93
+Encoder Count: -108212
+Angle: -223.58
+Angular Velocity: -603.09
+Encoder Count: -108528
+Angle: -224.24
+Angular Velocity: -612.09
+Encoder Count: -108898
+Angle: -225.00
+Angular Velocity: -603.53
+Encoder Count: -109204
+Angle: -225.63
+Angular Velocity: -602.13
+Encoder Count: -109579
+Angle: -226.41
+Angular Velocity: -611.68
+Encoder Count: -109891
+Angle: -227.05
+Angular Velocity: -593.13
+Encoder Count: -110251
+Angle: -227.79
+Angular Velocity: -611.35
+Encoder Count: -110577
+Angle: -228.47
+Angular Velocity: -603.18
+Encoder Count: -110932
+Angle: -229.20
+Angular Velocity: -604.55
+Encoder Count: -111253
+Angle: -229.87
+Angular Velocity: -612.21
+Encoder Count: -111618
+Angle: -230.62
+Angular Velocity: -603.30
+Encoder Count: -111929
+Angle: -231.26
+Angular Velocity: -611.96
+Encoder Count: -112304
+Angle: -232.04
+Angular Velocity: -603.74
+Encoder Count: -112616
+Angle: -232.68
+Angular Velocity: -602.40
+Encoder Count: -112981
+Angle: -233.43
+Angular Velocity: -611.46
+Encoder Count: -113301
+Angle: -234.10
+Angular Velocity: -604.80
+Encoder Count: -113662
+Angle: -234.84
+Angular Velocity: -603.09
+Encoder Count: -113978
+Angle: -235.50
+Angular Velocity: -612.09
+Encoder Count: -114348
+Angle: -236.26
+Angular Velocity: -603.53
+Encoder Count: -114659
+Angle: -236.90
+Angular Velocity: -602.40
+Encoder Count: -115024
+Angle: -237.66
+Angular Velocity: -611.46
+Encoder Count: -115345
+Angle: -238.32
+Angular Velocity: -602.93
+Encoder Count: -115701
+Angle: -239.05
+Angular Velocity: -602.86
+Encoder Count: -116027
+Angle: -239.73
+Angular Velocity: -612.32
+Encoder Count: -116387
+Angle: -240.47
+Angular Velocity: -604.76
+Encoder Count: -116703
+Angle: -241.13
+Angular Velocity: -602.67
+Encoder Count: -117068
+Angle: -241.88
+Angular Velocity: -611.46
+Encoder Count: -117390
+Angle: -242.54
+Angular Velocity: -593.93
+Encoder Count: -117740
+Angle: -243.27
+Angular Velocity: -612.85
+Encoder Count: -118076
+Angle: -243.96
+Angular Velocity: -603.66
+Encoder Count: -118417
+Angle: -244.67
+Angular Velocity: -603.89
+Encoder Count: -118757
+Angle: -245.37
+Angular Velocity: -610.84
+Encoder Count: -119104
+Angle: -246.08
+Angular Velocity: -604.13
+Encoder Count: -119435
+Angle: -246.77
+Angular Velocity: -612.43
+Encoder Count: -119790
+Angle: -247.50
+Angular Velocity: -602.84
+Encoder Count: -120121
+Angle: -248.19
+Angular Velocity: -603.43
+Encoder Count: -120466
+Angle: -248.90
+Angular Velocity: -612.76
+Encoder Count: -120807
+Angle: -249.61
+Angular Velocity: -603.89
+Encoder Count: -121148
+Angle: -250.31
+Angular Velocity: -602.12
+Encoder Count: -121484
+Angle: -251.00
+Angular Velocity: -612.54
+Encoder Count: -121834
+Angle: -251.73
+Angular Velocity: -604.35
+Encoder Count: -122160
+Angle: -252.40
+Angular Velocity: -612.32
+Encoder Count: -122520
+Angle: -253.14
+Angular Velocity: -603.07
+Encoder Count: -122842
+Angle: -253.81
+Angular Velocity: -604.82
+Encoder Count: -123197
+Angle: -254.54
+Angular Velocity: -611.23
+Encoder Count: -123528
+Angle: -255.23
+Angular Velocity: -603.43
+Encoder Count: -123879
+Angle: -255.95
+Angular Velocity: -604.34
+Encoder Count: -124205
+Angle: -256.63
+Angular Velocity: -603.18
+Encoder Count: -124560
+Angle: -257.36
+Angular Velocity: -602.84
+Encoder Count: -124887
+Angle: -258.03
+Angular Velocity: -603.18
+Encoder Count: -125237
+Angle: -258.76
+Angular Velocity: -612.86
+Encoder Count: -125573
+Angle: -259.45
+Angular Velocity: -603.66
+Encoder Count: -125914
+Angle: -260.16
+Angular Velocity: -612.63
+Encoder Count: -126260
+Angle: -260.87
+Angular Velocity: -604.12
+Encoder Count: -126596
+Angle: -261.56
+Angular Velocity: -601.89
+Encoder Count: -126936
+Angle: -262.27
+Angular Velocity: -612.63
+Encoder Count: -127288
+Angle: -262.99
+Angular Velocity: -604.35
+Encoder Count: -127618
+Angle: -263.68
+Angular Velocity: -603.41
+Encoder Count: -127964
+Angle: -264.39
+Angular Velocity: -611.00
+Encoder Count: -128305
+Angle: -265.10
+Angular Velocity: -605.66
+Encoder Count: -128646
+Angle: -265.80
+Angular Velocity: -603.91
+Encoder Count: -128982
+Angle: -266.49
+Angular Velocity: -610.71
+Encoder Count: -129332
+Angle: -267.22
+Angular Velocity: -604.32
+Encoder Count: -129658
+Angle: -267.89
+Angular Velocity: -612.32
+Encoder Count: -130019
+Angle: -268.64
+Angular Velocity: -603.09
+Encoder Count: -130340
+Angle: -269.30
+Angular Velocity: -602.94
+Encoder Count: -130695
+Angle: -270.04
+Angular Velocity: -612.95
+Encoder Count: -131026
+Angle: -270.72
+Angular Velocity: -603.41
+Encoder Count: -131377
+Angle: -271.44
+Angular Velocity: -602.62
+Encoder Count: -131703
+Angle: -272.12
+Angular Velocity: -603.18
+Encoder Count: -132059
+Angle: -272.85
+Angular Velocity: -604.55
+Encoder Count: -132380
+Angle: -273.51
+Angular Velocity: -612.22
+Encoder Count: -132745
+Angle: -274.27
+Angular Velocity: -604.96
+Encoder Count: -133061
+Angle: -274.92
+Angular Velocity: -602.67
+Encoder Count: -133422
+Angle: -275.67
+Angular Velocity: -613.05
+Encoder Count: -133748
+Angle: -276.34
+Angular Velocity: -603.18
+Encoder Count: -134104
+Angle: -277.08
+Angular Velocity: -602.84
+Encoder Count: -134430
+Angle: -277.75
+Angular Velocity: -614.21
+Encoder Count: -134790
+Angle: -278.50
+Angular Velocity: -603.09
+Encoder Count: -135112
+Angle: -279.16
+Angular Velocity: -602.92
+Encoder Count: -135467
+Angle: -279.89
+Angular Velocity: -612.95
+Encoder Count: -135798
+Angle: -280.58
+Angular Velocity: -603.44
+Encoder Count: -136144
+Angle: -281.29
+Angular Velocity: -612.75
+Encoder Count: -136485
+Angle: -282.00
+Angular Velocity: -603.88
+Encoder Count: -136826
+Angle: -282.70
+Angular Velocity: -603.91
+Encoder Count: -137162
+Angle: -283.40
+Angular Velocity: -612.54
+Encoder Count: -137513
+Angle: -284.12
+Angular Velocity: -602.62
+Encoder Count: -137844
+Angle: -284.80
+Angular Velocity: -603.41
+Encoder Count: -138190
+Angle: -285.52
+Angular Velocity: -612.75
+Encoder Count: -138531
+Angle: -286.22
+Angular Velocity: -603.91
+Encoder Count: -138867
+Angle: -286.92
+Angular Velocity: -595.04
+Encoder Count: -139208
+Angle: -287.62
+Angular Velocity: -614.44
+Encoder Count: -139554
+Angle: -288.34
+Angular Velocity: -602.39
+Encoder Count: -139885
+Angle: -289.02
+Angular Velocity: -614.28
+Encoder Count: -140241
+Angle: -289.76
+Angular Velocity: -604.55
+Encoder Count: -140567
+Angle: -290.43
+Angular Velocity: -603.18
+Encoder Count: -140918
+Angle: -291.16
+Angular Velocity: -612.84
+Encoder Count: -141254
+Angle: -291.85
+Angular Velocity: -603.66
+Encoder Count: -141600
+Angle: -292.57
+Angular Velocity: -604.12
+Encoder Count: -141936
+Angle: -293.26
+Angular Velocity: -610.74
+Encoder Count: -142287
+Angle: -293.98
+Angular Velocity: -604.32
+Encoder Count: -142613
+Angle: -294.66
+Angular Velocity: -614.21
+Encoder Count: -142973
+Angle: -295.40
+Angular Velocity: -603.09
+Encoder Count: -143295
+Angle: -296.07
+Angular Velocity: -602.92
+Encoder Count: -143651
+Angle: -296.80
+Angular Velocity: -612.97
+Encoder Count: -143981
+Angle: -297.49
+Angular Velocity: -603.41
+Encoder Count: -144332
+Angle: -298.21
+Angular Velocity: -602.62
+Encoder Count: -144659
+Angle: -298.88
+Angular Velocity: -614.21
+Encoder Count: -145019
+Angle: -299.63
+Angular Velocity: -603.09
+Encoder Count: -145340
+Angle: -300.29
+Angular Velocity: -604.80
+Encoder Count: -145696
+Angle: -301.03
+Angular Velocity: -611.22
+Encoder Count: -146027
+Angle: -301.71
+Angular Velocity: -594.69
+Encoder Count: -146367
+Angle: -302.42
+Angular Velocity: -612.63
+Encoder Count: -146713
+Angle: -303.13
+Angular Velocity: -604.12
+Encoder Count: -147048
+Angle: -303.82
+Angular Velocity: -601.89
+Encoder Count: -147389
+Angle: -304.53
+Angular Velocity: -612.63
+Encoder Count: -147735
+Angle: -305.24
+Angular Velocity: -604.12
+Encoder Count: -148071
+Angle: -305.93
+Angular Velocity: -601.89
+Encoder Count: -148412
+Angle: -306.64
+Angular Velocity: -612.63
+Encoder Count: -148757
+Angle: -307.35
+Angular Velocity: -604.12
+Encoder Count: -149093
+Angle: -308.05
+Angular Velocity: -603.66
+Encoder Count: -149439
+Angle: -308.76
+Angular Velocity: -611.00
+Encoder Count: -149780
+Angle: -309.47
+Angular Velocity: -605.66
+Encoder Count: -150116
+Angle: -310.16
+Angular Velocity: -610.71
+Encoder Count: -150466
+Angle: -310.88
+Angular Velocity: -604.35
+Encoder Count: -150797
+Angle: -311.57
+Angular Velocity: -603.41
+Encoder Count: -151143
+Angle: -312.28
+Angular Velocity: -611.00
+Encoder Count: -151484
+Angle: -312.99
+Angular Velocity: -605.66
+Encoder Count: -151825
+Angle: -313.69
+Angular Velocity: -603.88
+Encoder Count: -152161
+Angle: -314.38
+Angular Velocity: -610.74
+Encoder Count: -152511
+Angle: -315.11
+Angular Velocity: -604.32
+Encoder Count: -152838
+Angle: -315.78
+Angular Velocity: -612.32
+Encoder Count: -153198
+Angle: -316.53
+Angular Velocity: -604.77
+Encoder Count: -153520
+Angle: -317.19
+Angular Velocity: -593.92
+Encoder Count: -153870
+Angle: -317.92
+Angular Velocity: -612.86
+Encoder Count: -154206
+Angle: -318.61
+Angular Velocity: -603.66
+Encoder Count: -154552
+Angle: -319.32
+Angular Velocity: -602.37
+Encoder Count: -154883
+Angle: -320.01
+Angular Velocity: -612.45
+Encoder Count: -155238
+Angle: -320.74
+Angular Velocity: -604.55
+Encoder Count: -155564
+Angle: -321.42
+Angular Velocity: -603.18
+Encoder Count: -155915
+Angle: -322.14
+Angular Velocity: -612.84
+Encoder Count: -156256
+Angle: -322.85
+Angular Velocity: -603.91
+Encoder Count: -156592
+Angle: -323.54
+Angular Velocity: -612.54
+Encoder Count: -156943
+Angle: -324.26
+Angular Velocity: -602.62
+Encoder Count: -157274
+Angle: -324.95
+Angular Velocity: -603.41
+Encoder Count: -157620
+Angle: -325.66
+Angular Velocity: -612.75
+Encoder Count: -157960
+Angle: -326.37
+Angular Velocity: -602.13
+Encoder Count: -158300
+Angle: -327.07
+Angular Velocity: -603.91
+Encoder Count: -158635
+Angle: -327.76
+Angular Velocity: -610.71
+Encoder Count: -158986
+Angle: -328.49
+Angular Velocity: -602.62
+Encoder Count: -159311
+Angle: -329.16
+Angular Velocity: -612.32
+Encoder Count: -159672
+Angle: -329.90
+Angular Velocity: -603.09
+Encoder Count: -159992
+Angle: -330.57
+Angular Velocity: -604.80
+Encoder Count: -160348
+Angle: -331.30
+Angular Velocity: -609.51
+Encoder Count: -160679
+Angle: -331.98
+Angular Velocity: -594.67
+Encoder Count: -161024
+Angle: -332.70
+Angular Velocity: -604.12
+Encoder Count: -161355
+Angle: -333.38
+Angular Velocity: -612.45
+Encoder Count: -161711
+Angle: -334.12
+Angular Velocity: -602.84
+Encoder Count: -162036
+Angle: -334.79
+Angular Velocity: -603.18
+Encoder Count: -162387
+Angle: -335.51
+Angular Velocity: -611.11
+Encoder Count: -162722
+Angle: -336.21
+Angular Velocity: -603.66
+Encoder Count: -163063
+Angle: -336.91
+Angular Velocity: -610.86
+Encoder Count: -163408
+Angle: -337.62
+Angular Velocity: -604.12
+Encoder Count: -163749
+Angle: -338.33
+Angular Velocity: -602.13
+Encoder Count: -164084
+Angle: -339.02
+Angular Velocity: -612.54
+Encoder Count: -164435
+Angle: -339.74
+Angular Velocity: -602.62
+Encoder Count: -164765
+Angle: -340.43
+Angular Velocity: -603.41
+Encoder Count: -165111
+Angle: -341.14
+Angular Velocity: -611.00
+Encoder Count: -165451
+Angle: -341.84
+Angular Velocity: -602.13
+Encoder Count: -165792
+Angle: -342.55
+Angular Velocity: -603.88
+Encoder Count: -166127
+Angle: -343.24
+Angular Velocity: -610.71
+Encoder Count: -166477
+Angle: -343.96
+Angular Velocity: -604.35
+Encoder Count: -166803
+Angle: -344.64
+Angular Velocity: -610.43
+Encoder Count: -167163
+Angle: -345.38
+Angular Velocity: -603.09
+Encoder Count: -167484
+Angle: -346.04
+Angular Velocity: -602.94
+Encoder Count: -167839
+Angle: -346.78
+Angular Velocity: -611.22
+Encoder Count: -168169
+Angle: -347.46
+Angular Velocity: -594.69
+Encoder Count: -168514
+Angle: -348.17
+Angular Velocity: -602.37
+Encoder Count: -168845
+Angle: -348.86
+Angular Velocity: -612.45
+Encoder Count: -169200
+Angle: -349.59
+Angular Velocity: -601.14
+Encoder Count: -169521
+Angle: -350.25
+Angular Velocity: -612.22
+Encoder Count: -169885
+Angle: -351.01
+Angular Velocity: -603.30
+Encoder Count: -170201
+Angle: -351.66
+Angular Velocity: -602.67
+Encoder Count: -170561
+Angle: -352.40
+Angular Velocity: -609.64
+Encoder Count: -170891
+Angle: -353.08
+Angular Velocity: -603.44
+Encoder Count: -171241
+Angle: -353.81
+Angular Velocity: -602.62
+Encoder Count: -171567
+Angle: -354.48
+Angular Velocity: -610.43
+Encoder Count: -171926
+Angle: -355.22
+Angular Velocity: -603.09
+Encoder Count: -172247
+Angle: -355.88
+Angular Velocity: -601.06
+Encoder Count: -172602
+Angle: -356.62
+Angular Velocity: -612.95
+Encoder Count: -172932
+Angle: -357.30
+Angular Velocity: -599.78
+Encoder Count: -173277
+Angle: -358.01
+Angular Velocity: -612.75
+Encoder Count: -173617
+Angle: -358.72
+Angular Velocity: -602.13
+Encoder Count: -173958
+Angle: -359.42
+Angular Velocity: -603.88
+Encoder Count: -174293
+Angle: -360.11
+Angular Velocity: -610.74
+Encoder Count: -174643
+Angle: -360.84
+Angular Velocity: -602.62
+Encoder Count: -174974
+Angle: -361.52
+Angular Velocity: -594.67
+Encoder Count: -175314
+Angle: -362.22
+Angular Velocity: -610.86
+Encoder Count: -175659
+Angle: -362.94
+Angular Velocity: -602.37
+Encoder Count: -175990
+Angle: -363.62
+Angular Velocity: -603.44
+Encoder Count: -176340
+Angle: -364.34
+Angular Velocity: -611.11
+Encoder Count: -176675
+Angle: -365.04
+Angular Velocity: -601.86
+Encoder Count: -177016
+Angle: -365.74
+Angular Velocity: -610.86
+Encoder Count: -177360
+Angle: -366.45
+Angular Velocity: -604.12
+Encoder Count: -177696
+Angle: -367.14
+Angular Velocity: -601.86
+Encoder Count: -178041
+Angle: -367.86
+Angular Velocity: -611.00
+Encoder Count: -178381
+Angle: -368.56
+Angular Velocity: -602.10
+Encoder Count: -178721
+Angle: -369.26
+Angular Velocity: -602.13
+Encoder Count: -179056
+Angle: -369.95
+Angular Velocity: -610.74
+Encoder Count: -179406
+Angle: -370.68
+Angular Velocity: -602.60
+Encoder Count: -179732
+Angle: -371.35
+Angular Velocity: -612.32
+Encoder Count: -180092
+Angle: -372.09
+Angular Velocity: -601.43
+Encoder Count: -180412
+Angle: -372.76
+Angular Velocity: -602.92
+Encoder Count: -180767
+Angle: -373.49
+Angular Velocity: -611.22
+Encoder Count: -181097
+Angle: -374.17
+Angular Velocity: -601.61
+Encoder Count: -181447
+Angle: -374.89
+Angular Velocity: -602.62
+Encoder Count: -181773
+Angle: -375.57
+Angular Velocity: -612.32
+Encoder Count: -182133
+Angle: -376.31
+Angular Velocity: -601.40
+Encoder Count: -182453
+Angle: -376.97
+Angular Velocity: -593.94
+Encoder Count: -182803
+Angle: -377.69
+Angular Velocity: -609.35
+Encoder Count: -183138
+Angle: -378.39
+Angular Velocity: -603.66
+Encoder Count: -183478
+Angle: -379.09
+Angular Velocity: -610.86
+Encoder Count: -183824
+Angle: -379.80
+Angular Velocity: -602.37
+Encoder Count: -184159
+Angle: -380.50
+Angular Velocity: -601.89
+Encoder Count: -184499
+Angle: -381.20
+Angular Velocity: -612.63
+Encoder Count: -184844
+Angle: -381.91
+Angular Velocity: -602.37
+Encoder Count: -185180
+Angle: -382.61
+Angular Velocity: -601.89
+Encoder Count: -185525
+Angle: -383.32
+Angular Velocity: -612.75
+Encoder Count: -185865
+Angle: -384.02
+Angular Velocity: -602.13
+Encoder Count: -186205
+Angle: -384.73
+Angular Velocity: -602.13
+Encoder Count: -186541
+Angle: -385.42
+Angular Velocity: -612.54
+Encoder Count: -186891
+Angle: -386.14
+Angular Velocity: -602.60
+Encoder Count: -187217
+Angle: -386.82
+Angular Velocity: -612.32
+Encoder Count: -187577
+Angle: -387.56
+Angular Velocity: -603.09
+Encoder Count: -187898
+Angle: -388.22
+Angular Velocity: -602.94
+Encoder Count: -188253
+Angle: -388.96
+Angular Velocity: -611.22
+Encoder Count: -188584
+Angle: -389.64
+Angular Velocity: -601.61
+Encoder Count: -188934
+Angle: -390.36
+Angular Velocity: -604.35
+Encoder Count: -189260
+Angle: -391.04
+Angular Velocity: -610.43
+Encoder Count: -189620
+Angle: -391.78
+Angular Velocity: -603.09
+Encoder Count: -189936
+Angle: -392.43
+Angular Velocity: -602.67
+Encoder Count: -190300
+Angle: -393.19
+Angular Velocity: -603.30
+Encoder Count: -190616
+Angle: -393.84
+Angular Velocity: -602.67
+Encoder Count: -190976
+Angle: -394.58
+Angular Velocity: -609.64
+Encoder Count: -191301
+Angle: -395.25
+Angular Velocity: -603.18
+Encoder Count: -191656
+Angle: -395.99
+Angular Velocity: -602.87
+Encoder Count: -191977
+Angle: -396.65
+Angular Velocity: -612.19
+Encoder Count: -192341
+Angle: -397.40
+Angular Velocity: -603.32
+Encoder Count: -192662
+Angle: -398.07
+Angular Velocity: -601.03
+Encoder Count: -193017
+Angle: -398.80
+Angular Velocity: -611.24
+Encoder Count: -193348
+Angle: -399.48
+Angular Velocity: -603.41
+Encoder Count: -193693
+Angle: -400.20
+Angular Velocity: -611.00
+Encoder Count: -194033
+Angle: -400.90
+Angular Velocity: -602.13
+Encoder Count: -194374
+Angle: -401.60
+Angular Velocity: -602.10
+Encoder Count: -194709
+Angle: -402.30
+Angular Velocity: -612.54
+Encoder Count: -195059
+Angle: -403.02
+Angular Velocity: -602.62
+Encoder Count: -195390
+Angle: -403.70
+Angular Velocity: -603.44
+Encoder Count: -195735
+Angle: -404.42
+Angular Velocity: -610.97
+Encoder Count: -196076
+Angle: -405.12
+Angular Velocity: -602.13
+Encoder Count: -196411
+Angle: -405.81
+Angular Velocity: -603.66
+Encoder Count: -196756
+Angle: -406.52
+Angular Velocity: -609.22
+Encoder Count: -197097
+Angle: -407.23
+Angular Velocity: -595.38
+Encoder Count: -197427
+Angle: -407.91
+Angular Velocity: -610.59
+Encoder Count: -197782
+Angle: -408.64
+Angular Velocity: -604.55
+Encoder Count: -198107
+Angle: -409.32
+Angular Velocity: -601.32
+Encoder Count: -198457
+Angle: -410.04
+Angular Velocity: -611.11
+Encoder Count: -198792
+Angle: -410.73
+Angular Velocity: -601.89
+Encoder Count: -199137
+Angle: -411.44
+Angular Velocity: -602.37
+Encoder Count: -199467
+Angle: -412.13
+Angular Velocity: -610.59
+Encoder Count: -199827
+Angle: -412.87
+Angular Velocity: -601.40
+Encoder Count: -200141
+Angle: -413.52
+Angular Velocity: -610.14
+Encoder Count: -200510
+Angle: -414.28
+Angular Velocity: -601.91
+Encoder Count: -200820
+Angle: -414.92
+Angular Velocity: -600.44
+Encoder Count: -201184
+Angle: -415.67
+Angular Velocity: -609.79
+Encoder Count: -201505
+Angle: -416.33
+Angular Velocity: -601.06
+Encoder Count: -201864
+Angle: -417.08
+Angular Velocity: -601.40
+Encoder Count: -202179
+Angle: -417.73
+Angular Velocity: -612.09
+Encoder Count: -202548
+Angle: -418.49
+Angular Velocity: -601.89
+Encoder Count: -202858
+Angle: -419.13
+Angular Velocity: -600.47
+Encoder Count: -203222
+Angle: -419.88
+Angular Velocity: -608.11
+Encoder Count: -203542
+Angle: -420.54
+Angular Velocity: -601.06
+Encoder Count: -203896
+Angle: -421.27
+Angular Velocity: -609.49
+Encoder Count: -204225
+Angle: -421.96
+Angular Velocity: -592.89
+Encoder Count: -204569
+Angle: -422.67
+Angular Velocity: -600.64
+Encoder Count: -204899
+Angle: -423.35
+Angular Velocity: -610.59
+Encoder Count: -205253
+Angle: -424.08
+Angular Velocity: -601.14
+Encoder Count: -205577
+Angle: -424.75
+Angular Velocity: -599.49
+Encoder Count: -205927
+Angle: -425.47
+Angular Velocity: -609.35
+Encoder Count: -206261
+Angle: -426.16
+Angular Velocity: -601.86
+Encoder Count: -206600
+Angle: -426.86
+Angular Velocity: -600.38
+Encoder Count: -206944
+Angle: -427.57
+Angular Velocity: -609.19
+Encoder Count: -207284
+Angle: -428.28
+Angular Velocity: -602.13
+Encoder Count: -207618
+Angle: -428.97
+Angular Velocity: -608.91
+Encoder Count: -207967
+Angle: -429.69
+Angular Velocity: -600.89
+Encoder Count: -208297
+Angle: -430.37
+Angular Velocity: -601.61
+Encoder Count: -208641
+Angle: -431.08
+Angular Velocity: -609.19
+Encoder Count: -208980
+Angle: -431.78
+Angular Velocity: -600.38
+Encoder Count: -209320
+Angle: -432.48
+Angular Velocity: -602.10
+Encoder Count: -209655
+Angle: -433.17
+Angular Velocity: -608.91
+Encoder Count: -210004
+Angle: -433.89
+Angular Velocity: -600.89
+Encoder Count: -210328
+Angle: -434.57
+Angular Velocity: -612.32
+Encoder Count: -210688
+Angle: -435.31
+Angular Velocity: -599.74
+Encoder Count: -211008
+Angle: -435.97
+Angular Velocity: -592.06
+Encoder Count: -211357
+Angle: -436.69
+Angular Velocity: -618.09
+Encoder Count: -211696
+Angle: -437.39
+Angular Velocity: -593.62
+Encoder Count: -212031
+Angle: -438.08
+Angular Velocity: -600.08
+Encoder Count: -212370
+Angle: -438.79
+Angular Velocity: -610.86
+Encoder Count: -212715
+Angle: -439.50
+Angular Velocity: -600.64
+Encoder Count: -213049
+Angle: -440.19
+Angular Velocity: -601.86
+Encoder Count: -213388
+Angle: -440.89
+Angular Velocity: -609.05
+Encoder Count: -213733
+Angle: -441.60
+Angular Velocity: -602.37
+Encoder Count: -214063
+Angle: -442.28
+Angular Velocity: -608.76
+Encoder Count: -214422
+Angle: -443.02
+Angular Velocity: -601.40
+Encoder Count: -214741
+Angle: -443.68
+Angular Velocity: -601.06
+Encoder Count: -215096
+Angle: -444.42
+Angular Velocity: -611.22
+Encoder Count: -215426
+Angle: -445.10
+Angular Velocity: -601.61
+Encoder Count: -215775
+Angle: -445.82
+Angular Velocity: -600.89
+Encoder Count: -216100
+Angle: -446.49
+Angular Velocity: -608.55
+Encoder Count: -216459
+Angle: -447.23
+Angular Velocity: -603.09
+Encoder Count: -216774
+Angle: -447.88
+Angular Velocity: -610.17
+Encoder Count: -217144
+Angle: -448.65
+Angular Velocity: -601.89
+Encoder Count: -217453
+Angle: -449.29
+Angular Velocity: -600.47
+Encoder Count: -217816
+Angle: -450.04
+Angular Velocity: -608.11
+Encoder Count: -218136
+Angle: -450.70
+Angular Velocity: -601.03
+Encoder Count: -218495
+Angle: -451.44
+Angular Velocity: -599.74
+Encoder Count: -218809
+Angle: -452.09
+Angular Velocity: -600.75
+Encoder Count: -219173
+Angle: -452.84
+Angular Velocity: -601.66
+Encoder Count: -219488
+Angle: -453.49
+Angular Velocity: -600.75
+Encoder Count: -219847
+Angle: -454.23
+Angular Velocity: -607.96
+Encoder Count: -220171
+Angle: -454.90
+Angular Velocity: -601.32
+Encoder Count: -220520
+Angle: -455.62
+Angular Velocity: -599.16
+Encoder Count: -220850
+Angle: -456.30
+Angular Velocity: -610.59
+Encoder Count: -221203
+Angle: -457.04
+Angular Velocity: -601.16
+Encoder Count: -221528
+Angle: -457.70
+Angular Velocity: -608.58
+Encoder Count: -221887
+Angle: -458.45
+Angular Velocity: -603.06
+Encoder Count: -222207
+Angle: -459.11
+Angular Velocity: -599.20
+Encoder Count: -222560
+Angle: -459.84
+Angular Velocity: -609.49
+Encoder Count: -222890
+Angle: -460.52
+Angular Velocity: -601.61
+Encoder Count: -223240
+Angle: -461.24
+Angular Velocity: -600.89
+Encoder Count: -223564
+Angle: -461.91
+Angular Velocity: -610.43
+Encoder Count: -223924
+Angle: -462.65
+Angular Velocity: -601.43
+Encoder Count: -224239
+Angle: -463.31
+Angular Velocity: -612.09
+Encoder Count: -224608
+Angle: -464.07
+Angular Velocity: -600.25
+Encoder Count: -224918
+Angle: -464.71
+Angular Velocity: -600.47
+Encoder Count: -225281
+Angle: -465.46
+Angular Velocity: -609.79
+Encoder Count: -225601
+Angle: -466.12
+Angular Velocity: -592.06
+Encoder Count: -225954
+Angle: -466.85
+Angular Velocity: -607.78
+Encoder Count: -226279
+Angle: -467.52
+Angular Velocity: -599.49
+Encoder Count: -226633
+Angle: -468.25
+Angular Velocity: -601.16
+Encoder Count: -226952
+Angle: -468.91
+Angular Velocity: -610.28
+Encoder Count: -227316
+Angle: -469.67
+Angular Velocity: -601.66
+Encoder Count: -227631
+Angle: -470.32
+Angular Velocity: -600.75
+Encoder Count: -227990
+Angle: -471.06
+Angular Velocity: -609.67
+Encoder Count: -228316
+Angle: -471.73
+Angular Velocity: -601.32
+Encoder Count: -228670
+Angle: -472.46
+Angular Velocity: -602.84
+Encoder Count: -228995
+Angle: -473.13
+Angular Velocity: -608.58
+Encoder Count: -229354
+Angle: -473.87
+Angular Velocity: -601.40
+Encoder Count: -229674
+Angle: -474.54
+Angular Velocity: -602.94
+Encoder Count: -230028
+Angle: -475.27
+Angular Velocity: -609.49
+Encoder Count: -230358
+Angle: -475.95
+Angular Velocity: -601.61
+Encoder Count: -230703
+Angle: -476.66
+Angular Velocity: -609.22
+Encoder Count: -231043
+Angle: -477.36
+Angular Velocity: -602.13
+Encoder Count: -231382
+Angle: -478.07
+Angular Velocity: -602.10
+Encoder Count: -231717
+Angle: -478.76
+Angular Velocity: -610.74
+Encoder Count: -232066
+Angle: -479.48
+Angular Velocity: -600.89
+Encoder Count: -232396
+Angle: -480.16
+Angular Velocity: -601.61
+Encoder Count: -232740
+Angle: -480.87
+Angular Velocity: -609.19
+Encoder Count: -233080
+Angle: -481.57
+Angular Velocity: -600.38
+Encoder Count: -233415
+Angle: -482.26
+Angular Velocity: -593.26
+Encoder Count: -233754
+Angle: -482.97
+Angular Velocity: -610.86
+Encoder Count: -234098
+Angle: -483.68
+Angular Velocity: -600.61
+Encoder Count: -234428
+Angle: -484.36
+Angular Velocity: -610.59
+Encoder Count: -234783
+Angle: -485.09
+Angular Velocity: -602.87
+Encoder Count: -235108
+Angle: -485.76
+Angular Velocity: -601.32
+Encoder Count: -235457
+Angle: -486.49
+Angular Velocity: -609.35
+Encoder Count: -235792
+Angle: -487.18
+Angular Velocity: -600.08
+Encoder Count: -236141
+Angle: -487.90
+Angular Velocity: -600.89
+Encoder Count: -236465
+Angle: -488.57
+Angular Velocity: -610.43
+Encoder Count: -236824
+Angle: -489.31
+Angular Velocity: -601.40
+Encoder Count: -237140
+Angle: -489.96
+Angular Velocity: -610.17
+Encoder Count: -237508
+Angle: -490.72
+Angular Velocity: -601.89
+Encoder Count: -237819
+Angle: -491.36
+Angular Velocity: -600.47
+Encoder Count: -238183
+Angle: -492.12
+Angular Velocity: -611.45
+Encoder Count: -238503
+Angle: -492.78
+Angular Velocity: -599.17
+Encoder Count: -238862
+Angle: -493.52
+Angular Velocity: -603.09
+Encoder Count: -239177
+Angle: -494.17
+Angular Velocity: -610.14
+Encoder Count: -239546
+Angle: -494.93
+Angular Velocity: -601.91
+Encoder Count: -239856
+Angle: -495.57
+Angular Velocity: -600.44
+Encoder Count: -240220
+Angle: -496.33
+Angular Velocity: -609.79
+Encoder Count: -240541
+Angle: -496.99
+Angular Velocity: -593.92
+Encoder Count: -240890
+Angle: -497.71
+Angular Velocity: -600.92
+Encoder Count: -241220
+Angle: -498.39
+Angular Velocity: -608.73
+Encoder Count: -241575
+Angle: -499.12
+Angular Velocity: -602.84
+Encoder Count: -241887
+Angle: -499.77
+Angular Velocity: -596.95
+Encoder Count: -242181
+Angle: -500.38
+Angular Velocity: -484.30
+Encoder Count: -242381
+Angle: -500.79
+Angular Velocity: -381.42
+Encoder Count: -242558
+Angle: -501.15
+Angular Velocity: -298.89
+Encoder Count: -242677
+Angle: -501.40
+Angular Velocity: -218.76
+Encoder Count: -242768
+Angle: -501.59
+Angular Velocity: -154.98
+Encoder Count: -242825
+Angle: -501.70
+Angular Velocity: -107.06
+Encoder Count: -242863
+Angle: -501.78
+Angular Velocity: -63.64
+Encoder Count: -242878
+Angle: -501.81
+Angular Velocity: -30.01
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: -4.89
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle: -501.82
+Angular Velocity: 0.00
+Encoder Count: -242881
+Angle
