@@ -1,0 +1,26 @@
+digraph G {
+node [shape=box];
+"base_link" [label="base_link"];
+"base" [label="base"];
+"flyover_cable_link" [label="flyover_cable_link"];
+"inner_link" [label="inner_link"];
+"outer_link" [label="outer_link"];
+"quill_prismatic_link" [label="quill_prismatic_link"];
+"quill_rotation_link" [label="quill_rotation_link"];
+"tool0" [label="tool0"];
+node [shape=ellipse, color=blue, fontcolor=blue];
+"base_link" -> "base_link-base" [label="xyz: 0 0 0 \nrpy: 0 -0 0"]
+"base_link-base" -> "base"
+"base_link" -> "flyover_cable_joint" [label="xyz: 0 0 0.55 \nrpy: 0 -0 0"]
+"flyover_cable_joint" -> "flyover_cable_link"
+"base_link" -> "inner_joint" [label="xyz: 0 0 0.342 \nrpy: 0 -0 0"]
+"inner_joint" -> "inner_link"
+"inner_link" -> "outer_joint" [label="xyz: 0.325 0 0 \nrpy: 0 -0 0"]
+"outer_joint" -> "outer_link"
+"outer_link" -> "quill_prismatic_joint" [label="xyz: 0.275 0 0.045 \nrpy: 0 -0 0"]
+"quill_prismatic_joint" -> "quill_prismatic_link"
+"quill_prismatic_link" -> "quill_rotation_joint" [label="xyz: 0 0 0 \nrpy: 0 -0 0"]
+"quill_rotation_joint" -> "quill_rotation_link"
+"quill_rotation_link" -> "quill_rotation_link-tool0" [label="xyz: 0 0 0 \nrpy: -3.14159 -0 0"]
+"quill_rotation_link-tool0" -> "tool0"
+}
